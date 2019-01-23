@@ -4,7 +4,7 @@ A pure client-side IOTA seed generator!
 The code behind http://iotaseed.io/.
 
 **NOTE: This is a scam! This code is forked here for historical and analytical purposes only!
-See [this ZDnet article](https://www.zdnet.com/article/europol-arrests-uk-man-for-stealing-eur10-million-worth-of-iota-cryptocurrency/) and [this code analysis by Alex Studer](https://thatoddmailbox.github.io/2018/01/28/iotaseed.html). Also this scam is one of several mentioned in [this Ars Technica Article](https://arstechnica.com/information-technology/2018/01/two-new-cryptocurrency-heists-make-off-with-over-400m-worth-of-blockchange/)** 
+See [this ZDnet article](https://www.zdnet.com/article/europol-arrests-uk-man-for-stealing-eur10-million-worth-of-iota-cryptocurrency/) and [this code analysis by Alex Studer](https://thatoddmailbox.github.io/2018/01/28/iotaseed.html). Also this scam is one of several mentioned in [this Ars Technica Article](https://arstechnica.com/information-technology/2018/01/two-new-cryptocurrency-heists-make-off-with-over-400m-worth-of-blockchange/)** The scammer's GitHub account is gone, the source of this fork was not part of the scam.
 
 Should also work locally. Both through 'Save Page As', and when checked
 out from the git repo. Though when using it for real, please stick to
